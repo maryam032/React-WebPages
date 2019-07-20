@@ -1,0 +1,68 @@
+
+#div1{
+    outline:none;
+    background-color:rgb(236, 205, 92)   ;
+    width:98%;
+    float:left;
+    height:150px;
+    display: flex;  
+}
+#div2{
+    margin-left: 2%;
+    margin-right:50% ;
+    outline:none;
+    background-color:rgb(236, 205, 92)  ;
+    width:40%;
+    float: right;
+    height:90px;
+    display: flex;
+    font-size: 30px;
+    color:black;
+    margin-top: 2px
+}
+.button1
+{
+    color:black;
+    border:none;
+    margin-top: 0px;
+    font-size: 15px;
+    padding:15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 0px;
+    outline: none;
+    background-color: 	rgba(184, 49, 49, 0.733);
+    width:100px;
+    height: 40px;
+    color:white;
+    
+
+}
+.button1:hover
+{
+    background-color:	#FFFAFA;
+    color:black;
+
+}
+.div3{
+    background-color: brown;
+    color:white;
+}
+.div3:hover
+{
+    background-color:rgba(184, 49, 49, 0.733);
+    color:black;
+    
+}
+.text:hover
+{
+    color:black;
+}
+.img
+{
+   
+    float: right;
+    display: flex;
+    width:80px;
+    height: 30%;
+}
